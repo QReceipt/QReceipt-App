@@ -1,0 +1,2 @@
+rootProject.name = "QReceipt"
+include ':app'
