@@ -1,1 +1,1 @@
-# QReceipt_App
+# QReceipt-App
