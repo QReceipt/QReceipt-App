@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="user_type">
+        <item>고객님</item>
+        <item>기사님</item>
+        <item>점주님</item>
+    </string-array>
+
+
+</resources>
